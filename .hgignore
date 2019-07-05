@@ -1,0 +1,19 @@
+glob:glassfish-web.xml #Arquivo de configuração do GlassFish
+glob:dependency-reduced-pom.xml  #Arquivo de dependencias gerado pelo Netbeans
+glob:nb-configuration.xml  #Arquivo de configuração do Netbeans
+glob:nbactions.xml  #Arquivo de configuração do Netbeans
+glob:nbproject  #Pasta de configuração do Netbeans
+glob:.settings  #Pasta de configuração do Eclipse
+glob:.project  #Pasta de configuração do Eclipse
+glob:.form  #Pasta de configuração do Eclipse
+glob:.classpath  #Pasta de configuração do Eclipse
+glob:target  #Pasta temporária de projeto Java
+glob:*.orig  #Arquivo de backup feito pelo Mercurial
+glob:*.war  #Arquivo de deploy de projeto Java
+glob:*.jar  #Arquivo executável de projeto Java
+glob:*.form  #Arquivo gerado pelo Netbeans
+glob:*.swp  #Arquivo de sistema(lock) do editor vi
+glob:*.csv  #Arquivo de sistema(lock) do editor vi
+glob:lock_* #Arquivo de sistema(lock) do editor vi
+glob:*~  #Arquivo de sistema(lock) do editor vi
+re:\$\{jboss.deploy\}  #Pasta de arquivos war de projetos Java
